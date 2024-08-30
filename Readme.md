@@ -6,4 +6,4 @@ const c = 40;
 console.log(c);
 ```
 
-**Ignore this File.**
+**Ignore this File. It is only for Learning Purpose.**
